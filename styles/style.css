@@ -1,4 +1,12 @@
 body {
     background-color: whitesmoke;
+    font-family: Roboto, sans-serif;
+}
+
+h2 {
     color: tomato;
+}
+
+a {
+ text-decoration: none;   
 }
