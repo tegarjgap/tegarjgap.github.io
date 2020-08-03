@@ -8,12 +8,8 @@ h2 {
 }
 
 a {
- text-decoration: none;
- cursor: pointer;   
-}
-
-a:hover {
-    color: blueviolet;
+    text-decoration: none;
+    cursor: pointer;   
 }
 
 footer {
